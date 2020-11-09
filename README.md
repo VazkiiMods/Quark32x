@@ -1,2 +1,2 @@
-# QuarkFaithful
-Faithful textures for Quark
+# Quark32x
+32x textures for Quark
